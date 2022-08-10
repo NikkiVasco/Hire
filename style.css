@@ -1,0 +1,13 @@
+div{
+    padding: 0;
+    margin: 0;
+    background-color: #121317;
+
+}
+
+button{
+    background-color: #18f98f;
+    border: none;
+    position: absolute;
+    transform: translate;
+}
